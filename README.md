@@ -19,4 +19,4 @@ sparsevote(imgDir,K,Nr,rLo,rHi):
 
 
 ##Sample results:
-![image](https://github.com/cartoonxjtu/CircleDetectionDatasets/blob/master/sampleimages/sampleimages.png)
+![image](https://github.com/cartoonxjtu/SparseVoteCircleDetection/blob/master/example_results.png)
